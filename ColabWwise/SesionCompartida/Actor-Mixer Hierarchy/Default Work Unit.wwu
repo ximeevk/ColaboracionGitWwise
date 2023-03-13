@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{745B62B6-20A1-4BB3-B2D2-1F25249A4877}" SchemaVersion="103">
+	<AudioObjects>
+		<WorkUnit Name="Default Work Unit" ID="{745B62B6-20A1-4BB3-B2D2-1F25249A4877}" PersistMode="Standalone">
+			<ChildrenList>
+				<Sound Name="aliM" ID="{88EB0570-FF86-456D-BE9A-C3755C35969F}" ShortID="839243953">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{7316D9B1-0A3E-44D0-8227-384348A87F54}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{0B00E689-0DCF-43CB-AFDC-0E0BB475187F}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="Cartoon, Misc, Cartoon Character, Voice, High Pitched, Pain, Grunts SND15445 copy" ID="{20F93F7A-C0AC-44D2-A489-73FDCD1F95B3}">
+							<Language>SFX</Language>
+							<AudioFile>Cartoon, Misc, Cartoon Character, Voice, High Pitched, Pain, Grunts SND15445 copy.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="64895902"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ObjectLists/>
+					<ActiveSourceList>
+						<ActiveSource Name="Cartoon, Misc, Cartoon Character, Voice, High Pitched, Pain, Grunts SND15445 copy" ID="{20F93F7A-C0AC-44D2-A489-73FDCD1F95B3}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>
