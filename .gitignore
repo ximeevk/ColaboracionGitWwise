@@ -2,7 +2,14 @@
 SesionCompartida/SesionCompartida.crossover.validationcache
 SesionCompartida/SesionCompartida.crossover.wsettings
 ColabWwise/SesionCompartida/SesionCompartida.crossover.validationcache
+<<<<<<< HEAD
 ColabWwise/NSC/.cache/CacheVersion
 ColabWwise/NSC/NSC.crossover.wsettings
 ColabWwise/NSC/NSC.crossover.validationcache
 ColabWwise/SesionCompartida/SesionCompartida.crossover.wsettings
+=======
+>>>>>>> 0ce5573821e1f68670037ee2cf8379d19e8b80d4
+.DS_Store
+ColabWwise/.DS_Store
+ColabWwise/SesionCompartida/Actor-Mixer Hierarchy/Default Work Unit.wwu
+ColabWwise/SesionCompartida/SesionCompartida.crossover.validationcache
