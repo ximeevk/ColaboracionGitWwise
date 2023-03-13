@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{4145058C-16D2-4FD0-B1AA-860BA80BC9FF}" SchemaVersion="103">
+	<AudioObjects>
+		<WorkUnit Name="ximena" ID="{4145058C-16D2-4FD0-B1AA-860BA80BC9FF}" PersistMode="Standalone">
+			<ChildrenList>
+				<Sound Name="Transition_A_B" ID="{DC74B079-5403-4909-8918-D0D1E89C9C6E}" ShortID="1001173730">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B095AA85-54E9-45B3-A032-C08F48F68334}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{5A514F9B-D2D9-43D9-BD5A-BF0D766AFCEB}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="Transition_A_B" ID="{4E35D175-488A-42CB-BF30-C5A0D82D4735}">
+							<Language>SFX</Language>
+							<AudioFile>Transition_A_B.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="985982677"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ObjectLists/>
+					<ActiveSourceList>
+						<ActiveSource Name="Transition_A_B" ID="{4E35D175-488A-42CB-BF30-C5A0D82D4735}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>
