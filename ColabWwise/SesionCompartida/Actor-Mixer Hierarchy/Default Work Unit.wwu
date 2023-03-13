@@ -26,6 +26,29 @@
 						<ActiveSource Name="Cartoon, Misc, Cartoon Character, Voice, High Pitched, Pain, Grunts SND15445 copy" ID="{20F93F7A-C0AC-44D2-A489-73FDCD1F95B3}" Platform="Linked"/>
 					</ActiveSourceList>
 				</Sound>
+				<Sound Name="axel" ID="{52EAB333-80DD-4FFA-BC21-278529AE9DC8}" ShortID="645938410">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{7316D9B1-0A3E-44D0-8227-384348A87F54}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{0B00E689-0DCF-43CB-AFDC-0E0BB475187F}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="Copia de Guns, Automatic, Assault Rifle, M4A1, Various Shots, Single, Bursts 02 SND35492 2" ID="{D881AF1A-C751-429F-B2C8-C5964CB04C69}">
+							<Language>SFX</Language>
+							<AudioFile>Copia de Guns, Automatic, Assault Rifle, M4A1, Various Shots, Single, Bursts 02 SND35492 2.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="847014047"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ObjectLists/>
+					<ActiveSourceList>
+						<ActiveSource Name="Copia de Guns, Automatic, Assault Rifle, M4A1, Various Shots, Single, Bursts 02 SND35492 2" ID="{D881AF1A-C751-429F-B2C8-C5964CB04C69}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
 			</ChildrenList>
 		</WorkUnit>
 	</AudioObjects>
